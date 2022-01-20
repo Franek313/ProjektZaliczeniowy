@@ -1,5 +1,5 @@
 # ProjektZaliczeniowy
-##Podstawowe informacje
+## Podstawowe informacje
 ###Jest to aplikacja sklepu internetowego w którym można zakupić różne produkty o różnych cenach, aplikacja zawiera także ekran logowania i rejestracji gdzie można stworzyć nieograniczoną liczbę użytkowników z wirtualnymi portfelami i możliwością przelogowywania się między nimi.
 
 ##Nawigacja
